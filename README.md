@@ -1,5 +1,7 @@
 # img-cube
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A 3D image cube component built with Three.js.
 
 ## Demo
