@@ -21,4 +21,4 @@ To use the `img-cube` component, include the `img-cube.js` file and add the `<im
 ```
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+MIT License — see [LICENSE](LICENSE).
