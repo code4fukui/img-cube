@@ -6,10 +6,10 @@ A self-rotating 3D cube Web Component built with [Three.js](https://threejs.org/
 
 ## Demo
 
-[**Live Demo**](https://code4fukui.github.io/img-cube/)
+[**Live Demo**](~~https://code4fukui.github.io/img~~ *(unavailable)*-cube/)
 
 
-![A demo of four dark gray 3D cubes rotating on a red background.](https://code4fukui.github.io/img-cube/demo.gif)
+![A demo of four dark gray 3D cubes rotating on a red background.](~~https://code4fukui.github.io/img~~ *(unavailable)*-cube/demo.gif)
 
 
 ## Features

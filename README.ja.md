@@ -4,9 +4,9 @@
 
 ## デモ
 
-[**ライブデモ**](https://code4fukui.github.io/img-cube/)
+[**ライブデモ**](~~https://code4fukui.github.io/img~~ *(unavailable)*-cube/)
 
-![赤い背景に4つの暗灰色の3Dキューブが回転しているデモ](https://code4fukui.github.io/img-cube/demo.gif)
+![赤い背景に4つの暗灰色の3Dキューブが回転しているデモ](~~https://code4fukui.github.io/img~~ *(unavailable)*-cube/demo.gif)
 
 ## 特徴
 
